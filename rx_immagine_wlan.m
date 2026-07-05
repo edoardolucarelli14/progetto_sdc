@@ -7,6 +7,7 @@
 % ADD-ONS RICHIESTI:
 %   - WLAN Toolbox
 %   - Communications Toolbox Support Package for Analog Devices ADALM-Pluto
+%   - DSP System Toolbox 
 %
 % ISTRUZIONI:
 %   1. Avviare prima TX_WLAN_Pluto.m sul PC trasmettitore
