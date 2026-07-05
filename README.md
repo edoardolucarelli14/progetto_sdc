@@ -1,4 +1,4 @@
-# Prova Finale di Sistemi di Comunicazione (SdC) — Trasmissione WLAN su ADALM-Pluto SDR
+# Prova Finale di Sistemi di Comunicazione — Trasmissione WLAN su ADALM-Pluto SDR
 
 Questo progetto (#3) implementa un sistema di comunicazione Tx-Rx per la trasmissione e ricezione di un segnale video/immagine compresso sfruttando l'architettura **Software-Defined Radio (SDR)**. 
 
